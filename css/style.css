@@ -12614,11 +12614,11 @@ textarea.form-control {
 }
 
 .tech-item {
-  background-color: #ffbd39;
+  background-color: #ffbd3957;
   padding: 5px 10px;
   margin-bottom: 10px;
   border-radius: 2px;
-  color: #040505;
+  color: #ffa700;
 }
 
 .tech-list {
